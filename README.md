@@ -1,5 +1,5 @@
 # docker
-#yum update -y
+# yum update -y
 # yum install git -y
 # use commands
 # bash installer.sh
