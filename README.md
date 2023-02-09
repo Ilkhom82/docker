@@ -1,4 +1,6 @@
 # docker
+#yum update -y
+# yum install git -y
 # use commands
 # bash installer.sh
 # docker  build -t  task:v1 .
